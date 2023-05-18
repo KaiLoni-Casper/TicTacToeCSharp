@@ -1,0 +1,10 @@
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe.config
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csprojAssemblyReference.cache
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.Form1.resources
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.Properties.Resources.resources
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.GenerateResource.cache
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.CoreCompileInputs.cache
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.exe
+C:\Users\4800627439\OneDrive\OneDrive - Davis Technical College\SDEV 2410 C# Programming I\Personal Project\ticTacToe\ticTacToe\obj\Debug\ticTacToe.pdb
